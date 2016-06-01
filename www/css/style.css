@@ -1,0 +1,6 @@
+/* Empty. Add your own CSS if you like */
+/* Add animation */
+.contenedor.ng-leave.ng-leave-active {
+    -webkit-animation-name: bounceOutLeft;
+    animation-name: bounceOutLeft;;
+}
